@@ -1,14 +1,9 @@
 [
     {
-        "nome":"Vila Rodrigues",
-        "incidencia":0.0,
-        "percentual_temperatura":75.0,
-        "risco":0.0
-    },
-    {
         "nome":"Teste",
         "incidencia":0.0,
         "percentual_temperatura":75.0,
         "risco":0.0
     }
+
 ]
