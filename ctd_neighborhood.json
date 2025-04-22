@@ -6,10 +6,10 @@
       "id": 3,
       "properties": {
         "name": "Vila Rodrigues",
-        "totalCasos": 5,
-        "masculino": 3,
+        "totalCasos": 82,
+        "masculino": 80,
         "feminino": 2,
-        "populacao": 0,
+        "populacao": 100,
         "coords": {
           "latitude": -21.134875063295922,
           "longitude": -48.981625903013864
