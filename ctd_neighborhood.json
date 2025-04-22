@@ -77,7 +77,7 @@
       "properties": {
         "name": "Centro",
         "totalCasos": 11,
-        "masculino": 5,
+        "masculino": 5000,
         "feminino": 6,
         "populacao": 6076,
         "coords": {
