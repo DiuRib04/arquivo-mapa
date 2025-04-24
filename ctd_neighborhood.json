@@ -5,11 +5,11 @@
       "type": "Feature",
       "id": 3,
       "properties": {
-        "name": "Vila",
-        "totalCasos": 1000,
-        "masculino": 992,
-        "feminino": 2,
-        "populacao": 1500,
+        "name": "Vila Rodrigues",
+        "totalCasos": 5,
+        "masculino": 2,
+        "feminino": 3,
+        "populacao": 0,
         "coords": {
           "latitude": -21.134875063295922,
           "longitude": -48.981625903013864
@@ -76,9 +76,9 @@
       "id": 6,
       "properties": {
         "name": "Centro",
-        "totalCasos": 11,
-        "masculino": 5,
-        "feminino": 6,
+        "totalCasos": 13,
+        "masculino": 1,
+        "feminino": 12,
         "populacao": 6076,
         "coords": {
           "latitude": -21.13627852807047,
@@ -358,9 +358,9 @@
       "id": 9,
       "properties": {
         "name": "Vila Mota",
-        "totalCasos": 4,
+        "totalCasos": 3,
         "masculino": 1,
-        "feminino": 3,
+        "feminino": 2,
         "populacao": 0,
         "coords": {
           "latitude": -21.1259374,
@@ -488,9 +488,9 @@
       "id": 12,
       "properties": {
         "name": "Vila Paulista",
-        "totalCasos": 6,
-        "masculino": 3,
-        "feminino": 3,
+        "totalCasos": 1,
+        "masculino": 1,
+        "feminino": 0,
         "populacao": 0,
         "coords": {
           "latitude": -21.128016276879485,
@@ -622,9 +622,9 @@
       "id": 13,
       "properties": {
         "name": "Jardim Eldorado",
-        "totalCasos": 5,
+        "totalCasos": 6,
         "masculino": 2,
-        "feminino": 3,
+        "feminino": 4,
         "populacao": 0,
         "coords": {
           "latitude": -21.148353956891718,
@@ -936,9 +936,9 @@
       "id": 15,
       "properties": {
         "name": "Jardim Vertoni",
-        "totalCasos": 0,
+        "totalCasos": 1,
         "masculino": 0,
-        "feminino": 0,
+        "feminino": 1,
         "populacao": 6173,
         "coords": {
           "latitude": -21.13211553763048,
@@ -990,9 +990,9 @@
       "id": 16,
       "properties": {
         "name": "Parque Gloria",
-        "totalCasos": 0,
-        "masculino": 0,
-        "feminino": 0,
+        "totalCasos": 4,
+        "masculino": 2,
+        "feminino": 2,
         "populacao": 7120,
         "coords": {
           "latitude": -21.126215634137292,
@@ -1028,9 +1028,9 @@
       "id": 17,
       "properties": {
         "name": "Parque Res. Flamingo",
-        "totalCasos": 27,
-        "masculino": 8,
-        "feminino": 19,
+        "totalCasos": 16,
+        "masculino": 7,
+        "feminino": 9,
         "populacao": 5734,
         "coords": {
           "latitude": -21.12615832783727,
@@ -1250,8 +1250,8 @@
       "id": 20,
       "properties": {
         "name": "Parque Res. Santa Paula",
-        "totalCasos": 1,
-        "masculino": 1,
+        "totalCasos": 3,
+        "masculino": 3,
         "feminino": 0,
         "populacao": 0,
         "coords": {
@@ -1332,9 +1332,9 @@
       "id": 22,
       "properties": {
         "name": "Jardim Soto",
-        "totalCasos": 8,
-        "masculino": 3,
-        "feminino": 5,
+        "totalCasos": 2,
+        "masculino": 2,
+        "feminino": 0,
         "populacao": 8300,
         "coords": {
           "latitude": -21.152689833198412,
@@ -1606,8 +1606,8 @@
       "id": 23,
       "properties": {
         "name": "Lot. Solo Sagrado",
-        "totalCasos": 14,
-        "masculino": 9,
+        "totalCasos": 8,
+        "masculino": 3,
         "feminino": 5,
         "populacao": 8429,
         "coords": {
@@ -1704,9 +1704,9 @@
       "id": 27,
       "properties": {
         "name": "Residencial Lunardelli",
-        "totalCasos": 3,
+        "totalCasos": 2,
         "masculino": 0,
-        "feminino": 3,
+        "feminino": 2,
         "populacao": 3203,
         "coords": {
           "latitude": -21.120132,
@@ -1774,9 +1774,9 @@
       "id": 29,
       "properties": {
         "name": "Conj. Hab. Gabriel Hernandes",
-        "totalCasos": 9,
-        "masculino": 6,
-        "feminino": 3,
+        "totalCasos": 5,
+        "masculino": 0,
+        "feminino": 5,
         "populacao": 3223,
         "coords": {
           "latitude": -21.12911,
@@ -1894,9 +1894,9 @@
       "id": 37,
       "properties": {
         "name": "Higienópolis",
-        "totalCasos": 8,
-        "masculino": 6,
-        "feminino": 2,
+        "totalCasos": 7,
+        "masculino": 4,
+        "feminino": 3,
         "populacao": 0,
         "coords": {
           "latitude": -21.1274004,
@@ -2028,9 +2028,9 @@
       "id": 41,
       "properties": {
         "name": "Lot. Bom Pastor",
-        "totalCasos": 31,
-        "masculino": 15,
-        "feminino": 16,
+        "totalCasos": 20,
+        "masculino": 14,
+        "feminino": 6,
         "populacao": 3240,
         "coords": {
           "latitude": -21.1455966,
@@ -2110,9 +2110,9 @@
       "id": 42,
       "properties": {
         "name": "Parque Glória IV",
-        "totalCasos": 6,
+        "totalCasos": 5,
         "masculino": 2,
-        "feminino": 4,
+        "feminino": 3,
         "populacao": 7120,
         "coords": {
           "latitude": -21.121688061590365,
@@ -2180,9 +2180,9 @@
       "id": 43,
       "properties": {
         "name": "Vila Bela",
-        "totalCasos": 0,
-        "masculino": 0,
-        "feminino": 0,
+        "totalCasos": 3,
+        "masculino": 1,
+        "feminino": 2,
         "populacao": 0,
         "coords": {
           "latitude": -21.1186394,
@@ -2254,9 +2254,9 @@
       "id": 48,
       "properties": {
         "name": "Parque José Cury",
-        "totalCasos": 6,
-        "masculino": 3,
-        "feminino": 3,
+        "totalCasos": 2,
+        "masculino": 2,
+        "feminino": 0,
         "populacao": 0,
         "coords": {
           "latitude": -21.1417174,
@@ -2482,9 +2482,9 @@
       "id": 52,
       "properties": {
         "name": "Jardim do Bosque",
-        "totalCasos": 3,
-        "masculino": 1,
-        "feminino": 2,
+        "totalCasos": 0,
+        "masculino": 0,
+        "feminino": 0,
         "populacao": 0,
         "coords": {
           "latitude": -21.1264072,
@@ -2592,9 +2592,9 @@
       "id": 53,
       "properties": {
         "name": "Parque Glória III",
-        "totalCasos": 0,
+        "totalCasos": 3,
         "masculino": 0,
-        "feminino": 0,
+        "feminino": 3,
         "populacao": 7120,
         "coords": {
           "latitude": -21.1236362,
@@ -2756,9 +2756,9 @@
       "id": 59,
       "properties": {
         "name": "Jardim Imperial",
-        "totalCasos": 18,
-        "masculino": 11,
-        "feminino": 7,
+        "totalCasos": 15,
+        "masculino": 7,
+        "feminino": 8,
         "populacao": 2686,
         "coords": {
           "latitude": -21.1305814,
@@ -2860,9 +2860,9 @@
       "id": 70,
       "properties": {
         "name": "Conjunto Habitacional Orlando Facci",
-        "totalCasos": 2,
+        "totalCasos": 0,
         "masculino": 0,
-        "feminino": 2,
+        "feminino": 0,
         "populacao": 0,
         "coords": {
           "latitude": -21.1274511,
@@ -3196,9 +3196,9 @@
       "id": 77,
       "properties": {
         "name": "Residencial Anuar Pachá",
-        "totalCasos": 1,
-        "masculino": 0,
-        "feminino": 1,
+        "totalCasos": 3,
+        "masculino": 1,
+        "feminino": 2,
         "populacao": 3300,
         "coords": {
           "latitude": -21.1524552,
@@ -3518,9 +3518,9 @@
       "id": 85,
       "properties": {
         "name": "Nova Catanduva",
-        "totalCasos": 14,
+        "totalCasos": 15,
         "masculino": 4,
-        "feminino": 10,
+        "feminino": 11,
         "populacao": 5304,
         "coords": {
           "latitude": -21.125437005173957,
@@ -3840,9 +3840,9 @@
       "id": 91,
       "properties": {
         "name": "Conj. Polo Comercial e Industrial Prof. Giordano Mestrinelli",
-        "totalCasos": 2,
+        "totalCasos": 3,
         "masculino": 1,
-        "feminino": 1,
+        "feminino": 2,
         "populacao": 0,
         "coords": {
           "latitude": -21.1296163,
@@ -3926,9 +3926,9 @@
       "id": 95,
       "properties": {
         "name": "Conjunto Habitacional Residencial Theodoro Rosa Filho",
-        "totalCasos": 1,
+        "totalCasos": 0,
         "masculino": 0,
-        "feminino": 1,
+        "feminino": 0,
         "populacao": 3082,
         "coords": {
           "latitude": -21.1202485,
@@ -4032,8 +4032,8 @@
       "id": 99,
       "properties": {
         "name": "Residencial Alto da Boa Vista",
-        "totalCasos": 1,
-        "masculino": 1,
+        "totalCasos": 0,
+        "masculino": 0,
         "feminino": 0,
         "populacao": 0,
         "coords": {
@@ -4318,9 +4318,9 @@
       "id": 121,
       "properties": {
         "name": "Residencial Alto da Boa Vista II",
-        "totalCasos": 1,
+        "totalCasos": 0,
         "masculino": 0,
-        "feminino": 1,
+        "feminino": 0,
         "populacao": 0,
         "coords": {
           "latitude": -21.170818026001285,
@@ -4405,8 +4405,8 @@
       "properties": {
         "name": "Distrito Industrial Antônio Zácaro",
         "totalCasos": 5,
-        "masculino": 1,
-        "feminino": 4,
+        "masculino": 2,
+        "feminino": 3,
         "populacao": 0,
         "coords": {
           "latitude": -21.1266151,
@@ -4628,9 +4628,9 @@
       "id": 131,
       "properties": {
         "name": "Residencial Cidade Jardim",
-        "totalCasos": 12,
+        "totalCasos": 10,
         "masculino": 8,
-        "feminino": 4,
+        "feminino": 2,
         "populacao": 0,
         "coords": {
           "latitude": -21.1660487,
@@ -4682,9 +4682,9 @@
       "id": 132,
       "properties": {
         "name": "Polo Coml. e Indl. Raul de Carvalho",
-        "totalCasos": 1,
+        "totalCasos": 0,
         "masculino": 0,
-        "feminino": 1,
+        "feminino": 0,
         "populacao": 0,
         "coords": {
           "latitude": -21.102351942406376,
@@ -4774,9 +4774,9 @@
       "id": 134,
       "properties": {
         "name": "Jardim Pedro Borgonovi",
-        "totalCasos": 1,
+        "totalCasos": 0,
         "masculino": 0,
-        "feminino": 1,
+        "feminino": 0,
         "populacao": 0,
         "coords": {
           "latitude": -21.1116127,
@@ -4840,9 +4840,9 @@
       "id": 135,
       "properties": {
         "name": "Residencial Júlia Caparroz",
-        "totalCasos": 1,
+        "totalCasos": 0,
         "masculino": 0,
-        "feminino": 1,
+        "feminino": 0,
         "populacao": 0,
         "coords": {
           "latitude": -21.1097913,
@@ -5026,9 +5026,9 @@
       "id": 138,
       "properties": {
         "name": "Colina do Sol",
-        "totalCasos": 2,
-        "masculino": 0,
-        "feminino": 2,
+        "totalCasos": 3,
+        "masculino": 2,
+        "feminino": 1,
         "populacao": 0,
         "coords": {
           "latitude": -21.1152017,
@@ -5258,9 +5258,9 @@
       "id": 140,
       "properties": {
         "name": "Residencial Sebastião Moraes",
-        "totalCasos": 0,
+        "totalCasos": 2,
         "masculino": 0,
-        "feminino": 0,
+        "feminino": 2,
         "populacao": 0,
         "coords": {
           "latitude": -21.119237579163595,
@@ -5359,8 +5359,8 @@
       "properties": {
         "name": "Jardim dos Coqueiros II",
         "totalCasos": 1,
-        "masculino": 0,
-        "feminino": 1,
+        "masculino": 1,
+        "feminino": 0,
         "populacao": 0,
         "coords": {
           "latitude": -21.1791152,
@@ -5526,8 +5526,8 @@
       "id": 144,
       "properties": {
         "name": "Vila Juca Pedro",
-        "totalCasos": 8,
-        "masculino": 7,
+        "totalCasos": 3,
+        "masculino": 2,
         "feminino": 1,
         "populacao": 0,
         "coords": {
@@ -5632,9 +5632,9 @@
       "id": 145,
       "properties": {
         "name": "Jardim Amêndola",
-        "totalCasos": 9,
-        "masculino": 5,
-        "feminino": 4,
+        "totalCasos": 1,
+        "masculino": 1,
+        "feminino": 0,
         "populacao": 0,
         "coords": {
           "latitude": -21.14590064637557,
@@ -5782,9 +5782,9 @@
       "id": 146,
       "properties": {
         "name": "Parque Residencial Joaquim Lopes",
-        "totalCasos": 1,
-        "masculino": 1,
-        "feminino": 0,
+        "totalCasos": 2,
+        "masculino": 0,
+        "feminino": 2,
         "populacao": 0,
         "coords": {
           "latitude": -21.1545396,
@@ -5998,9 +5998,9 @@
       "id": 148,
       "properties": {
         "name": "Parque Residencial Agudo Romão II",
-        "totalCasos": 2,
-        "masculino": 0,
-        "feminino": 2,
+        "totalCasos": 1,
+        "masculino": 1,
+        "feminino": 0,
         "populacao": 0,
         "coords": {
           "latitude": -21.143699869028403,
@@ -6168,9 +6168,9 @@
       "id": 149,
       "properties": {
         "name": "Parque José Curi",
-        "totalCasos": 6,
-        "masculino": 3,
-        "feminino": 3,
+        "totalCasos": 2,
+        "masculino": 2,
+        "feminino": 0,
         "populacao": 0,
         "coords": {
           "latitude": -21.1417174,
@@ -6396,8 +6396,8 @@
       "id": 151,
       "properties": {
         "name": "Vila Santo Antônio",
-        "totalCasos": 0,
-        "masculino": 0,
+        "totalCasos": 2,
+        "masculino": 2,
         "feminino": 0,
         "populacao": 3371,
         "coords": {
@@ -6598,9 +6598,9 @@
       "id": 152,
       "properties": {
         "name": "Jardim do Lago",
-        "totalCasos": 2,
+        "totalCasos": 3,
         "masculino": 1,
-        "feminino": 1,
+        "feminino": 2,
         "populacao": 0,
         "coords": {
           "latitude": -21.135531327342225,
@@ -6688,9 +6688,9 @@
       "id": 153,
       "properties": {
         "name": "Vila Engracia",
-        "totalCasos": 0,
-        "masculino": 0,
-        "feminino": 0,
+        "totalCasos": 2,
+        "masculino": 1,
+        "feminino": 1,
         "populacao": 0,
         "coords": {
           "latitude": -21.136413619906975,
@@ -6746,9 +6746,9 @@
       "id": 154,
       "properties": {
         "name": "Jardim Del Rey",
-        "totalCasos": 7,
+        "totalCasos": 3,
         "masculino": 1,
-        "feminino": 6,
+        "feminino": 2,
         "populacao": 4072,
         "coords": {
           "latitude": -21.1464415,
@@ -6896,8 +6896,8 @@
       "id": 155,
       "properties": {
         "name": "Vila Industrial",
-        "totalCasos": 2,
-        "masculino": 2,
+        "totalCasos": 0,
+        "masculino": 0,
         "feminino": 0,
         "populacao": 0,
         "coords": {
@@ -7066,9 +7066,9 @@
       "id": 156,
       "properties": {
         "name": "Parque Iracema",
-        "totalCasos": 6,
-        "masculino": 3,
-        "feminino": 3,
+        "totalCasos": 3,
+        "masculino": 1,
+        "feminino": 2,
         "populacao": 0,
         "coords": {
           "latitude": -21.1431328,
@@ -7438,8 +7438,8 @@
       "id": 157,
       "properties": {
         "name": "Vila Celso Mauad",
-        "totalCasos": 0,
-        "masculino": 0,
+        "totalCasos": 1,
+        "masculino": 1,
         "feminino": 0,
         "populacao": 0,
         "coords": {
@@ -7790,9 +7790,9 @@
       "id": 159,
       "properties": {
         "name": "Jardim Monte Líbano",
-        "totalCasos": 8,
+        "totalCasos": 6,
         "masculino": 4,
-        "feminino": 4,
+        "feminino": 2,
         "populacao": 4273,
         "coords": {
           "latitude": -21.159922,
@@ -7888,8 +7888,8 @@
       "id": 160,
       "properties": {
         "name": "Jardim Santa Rosa",
-        "totalCasos": 2,
-        "masculino": 2,
+        "totalCasos": 1,
+        "masculino": 1,
         "feminino": 0,
         "populacao": 2770,
         "coords": {
@@ -8064,9 +8064,9 @@
       "id": 162,
       "properties": {
         "name": "Jardim Alpino",
-        "totalCasos": 2,
+        "totalCasos": 0,
         "masculino": 0,
-        "feminino": 2,
+        "feminino": 0,
         "populacao": 5061,
         "coords": {
           "latitude": -21.1606134,
@@ -8300,8 +8300,8 @@
       "id": 164,
       "properties": {
         "name": "Vila Guzzo",
-        "totalCasos": 1,
-        "masculino": 1,
+        "totalCasos": 2,
+        "masculino": 2,
         "feminino": 0,
         "populacao": 0,
         "coords": {
@@ -8382,8 +8382,8 @@
       "id": 165,
       "properties": {
         "name": "Jardim Augusta",
-        "totalCasos": 0,
-        "masculino": 0,
+        "totalCasos": 2,
+        "masculino": 2,
         "feminino": 0,
         "populacao": 0,
         "coords": {
@@ -8436,9 +8436,9 @@
       "id": 166,
       "properties": {
         "name": "São Francisco",
-        "totalCasos": 2,
+        "totalCasos": 4,
         "masculino": 1,
-        "feminino": 1,
+        "feminino": 3,
         "populacao": 0,
         "coords": {
           "latitude": -21.1330862,
@@ -8474,8 +8474,8 @@
       "id": 167,
       "properties": {
         "name": "Parque Glória I",
-        "totalCasos": 0,
-        "masculino": 0,
+        "totalCasos": 1,
+        "masculino": 1,
         "feminino": 0,
         "populacao": 7120,
         "coords": {
@@ -8714,8 +8714,8 @@
       "id": 171,
       "properties": {
         "name": "Parque Glória V",
-        "totalCasos": 1,
-        "masculino": 0,
+        "totalCasos": 4,
+        "masculino": 3,
         "feminino": 1,
         "populacao": 7120,
         "coords": {
@@ -8796,9 +8796,9 @@
       "id": 172,
       "properties": {
         "name": "Parque Glória VI",
-        "totalCasos": 9,
-        "masculino": 4,
-        "feminino": 5,
+        "totalCasos": 5,
+        "masculino": 3,
+        "feminino": 2,
         "populacao": 7120,
         "coords": {
           "latitude": -21.122814796279798,
@@ -8858,9 +8858,9 @@
       "id": 173,
       "properties": {
         "name": "Residencial Juliatti de Carvalho",
-        "totalCasos": 0,
-        "masculino": 0,
-        "feminino": 0,
+        "totalCasos": 5,
+        "masculino": 2,
+        "feminino": 3,
         "populacao": 0,
         "coords": {
           "latitude": -21.120978883390716,
@@ -8916,9 +8916,9 @@
       "id": 174,
       "properties": {
         "name": "Parque Residencial Agudo Romão",
-        "totalCasos": 2,
-        "masculino": 1,
-        "feminino": 1,
+        "totalCasos": 0,
+        "masculino": 0,
+        "feminino": 0,
         "populacao": 0,
         "coords": {
           "latitude": -21.145687115936287,
@@ -9336,9 +9336,9 @@
       "id": 176,
       "properties": {
         "name": "Conjunto Habitacional Giuseppe Spina",
-        "totalCasos": 6,
-        "masculino": 3,
-        "feminino": 3,
+        "totalCasos": 3,
+        "masculino": 2,
+        "feminino": 1,
         "populacao": 0,
         "coords": {
           "latitude": -21.15436098823912,
@@ -9824,9 +9824,9 @@
       "id": 178,
       "properties": {
         "name": "Residencial Júlio Ramos - Nova Catanduva II",
-        "totalCasos": 4,
-        "masculino": 2,
-        "feminino": 2,
+        "totalCasos": 2,
+        "masculino": 1,
+        "feminino": 1,
         "populacao": 0,
         "coords": {
           "latitude": -21.123683714343464,
@@ -9922,9 +9922,9 @@
       "id": 179,
       "properties": {
         "name": "Nova Catanduva III",
-        "totalCasos": 9,
-        "masculino": 3,
-        "feminino": 6,
+        "totalCasos": 3,
+        "masculino": 0,
+        "feminino": 3,
         "populacao": 0,
         "coords": {
           "latitude": -21.12032127539739,
@@ -10004,9 +10004,9 @@
       "id": 180,
       "properties": {
         "name": "Vila Maria Jorge",
-        "totalCasos": 0,
-        "masculino": 0,
-        "feminino": 0,
+        "totalCasos": 2,
+        "masculino": 1,
+        "feminino": 1,
         "populacao": 0,
         "coords": {
           "latitude": -21.13128092539403,
@@ -10260,9 +10260,9 @@
       "id": 182,
       "properties": {
         "name": "Res. Maria Luiza Peres de Faria",
-        "totalCasos": 1,
+        "totalCasos": 0,
         "masculino": 0,
-        "feminino": 1,
+        "feminino": 0,
         "populacao": 0,
         "coords": {
           "latitude": -21.115219528029083,
@@ -10314,9 +10314,9 @@
       "id": 183,
       "properties": {
         "name": "Jardim Tarraf II",
-        "totalCasos": 1,
+        "totalCasos": 0,
         "masculino": 0,
-        "feminino": 1,
+        "feminino": 0,
         "populacao": 0,
         "coords": {
           "latitude": -21.11202991533348,
@@ -10427,8 +10427,8 @@
       "properties": {
         "name": "Residencial Comendador Pedro Monteleone",
         "totalCasos": 1,
-        "masculino": 1,
-        "feminino": 0,
+        "masculino": 0,
+        "feminino": 1,
         "populacao": 0,
         "coords": {
           "latitude": -21.159215413776646,
@@ -10524,9 +10524,9 @@
       "id": 186,
       "properties": {
         "name": "Jardim Residencial Diolfen Martani",
-        "totalCasos": 5,
+        "totalCasos": 3,
         "masculino": 2,
-        "feminino": 3,
+        "feminino": 1,
         "populacao": 0,
         "coords": {
           "latitude": -21.140151300725055,
@@ -10842,8 +10842,8 @@
       "id": 189,
       "properties": {
         "name": "Jardim Ipanema",
-        "totalCasos": 2,
-        "masculino": 2,
+        "totalCasos": 1,
+        "masculino": 1,
         "feminino": 0,
         "populacao": 0,
         "coords": {
@@ -11070,8 +11070,8 @@
       "id": 191,
       "properties": {
         "name": "Loteamento Cerradinho",
-        "totalCasos": 4,
-        "masculino": 4,
+        "totalCasos": 2,
+        "masculino": 2,
         "feminino": 0,
         "populacao": 0,
         "coords": {
@@ -11164,8 +11164,8 @@
       "id": 192,
       "properties": {
         "name": "Jardim Salles",
-        "totalCasos": 3,
-        "masculino": 3,
+        "totalCasos": 0,
+        "masculino": 0,
         "feminino": 0,
         "populacao": 4979,
         "coords": {
@@ -11282,8 +11282,8 @@
       "id": 193,
       "properties": {
         "name": "Conjunto Habitacional Ângelo Gavioli",
-        "totalCasos": 0,
-        "masculino": 0,
+        "totalCasos": 1,
+        "masculino": 1,
         "feminino": 0,
         "populacao": 6483,
         "coords": {
@@ -11328,9 +11328,9 @@
       "id": 194,
       "properties": {
         "name": "Jardim São Domingos",
-        "totalCasos": 2,
-        "masculino": 1,
-        "feminino": 1,
+        "totalCasos": 0,
+        "masculino": 0,
+        "feminino": 0,
         "populacao": 0,
         "coords": {
           "latitude": -21.139478705088,
@@ -11394,8 +11394,8 @@
       "id": 195,
       "properties": {
         "name": "Conjunto Habitacional Pref. Joao Righini",
-        "totalCasos": 2,
-        "masculino": 1,
+        "totalCasos": 1,
+        "masculino": 0,
         "feminino": 1,
         "populacao": 0,
         "coords": {
@@ -11444,8 +11444,8 @@
       "id": 196,
       "properties": {
         "name": "Conjunto Habitacional Pedro Luis Boso/Manoel",
-        "totalCasos": 2,
-        "masculino": 2,
+        "totalCasos": 0,
+        "masculino": 0,
         "feminino": 0,
         "populacao": 0,
         "coords": {
@@ -11764,8 +11764,8 @@
       "id": 198,
       "properties": {
         "name": "Conjunto Habitacional Dep. Antônio Mastrocola",
-        "totalCasos": 1,
-        "masculino": 0,
+        "totalCasos": 2,
+        "masculino": 1,
         "feminino": 1,
         "populacao": 0,
         "coords": {
@@ -11810,9 +11810,9 @@
       "id": 199,
       "properties": {
         "name": "Residencial Alexandrina Pereira",
-        "totalCasos": 4,
+        "totalCasos": 1,
         "masculino": 0,
-        "feminino": 4,
+        "feminino": 1,
         "populacao": 0,
         "coords": {
           "latitude": -21.118961776510528,
@@ -12050,9 +12050,9 @@
       "id": 203,
       "properties": {
         "name": "Residencial Paraíso",
-        "totalCasos": 2,
-        "masculino": 2,
-        "feminino": 0,
+        "totalCasos": 4,
+        "masculino": 1,
+        "feminino": 3,
         "populacao": 0,
         "coords": {
           "latitude": -21.156793816555364,
@@ -12292,9 +12292,9 @@
       "id": 204,
       "properties": {
         "name": "Conjunto Habitacional Euclides Figueiredo II",
-        "totalCasos": 11,
-        "masculino": 5,
-        "feminino": 6,
+        "totalCasos": 4,
+        "masculino": 1,
+        "feminino": 3,
         "populacao": 3377,
         "coords": {
           "latitude": -21.137955964172253,
@@ -12342,9 +12342,9 @@
       "id": 205,
       "properties": {
         "name": "Residencial Granville",
-        "totalCasos": 3,
-        "masculino": 2,
-        "feminino": 1,
+        "totalCasos": 1,
+        "masculino": 1,
+        "feminino": 0,
         "populacao": 0,
         "coords": {
           "latitude": -21.158025201954313,
@@ -12412,9 +12412,9 @@
       "id": 206,
       "properties": {
         "name": "Conj. Hab. Comendador Jose A Borelli",
-        "totalCasos": 1,
+        "totalCasos": 0,
         "masculino": 0,
-        "feminino": 1,
+        "feminino": 0,
         "populacao": 0,
         "coords": {
           "latitude": -21.15746322361906,
