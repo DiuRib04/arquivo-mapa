@@ -2940,8 +2940,8 @@
       "id": 27,
       "properties": {
         "name": "Parque Glória II",
-        "totalCasos": 3,
-        "masculino": 2,
+        "totalCasos": 1000,
+        "masculino": 998,
         "feminino": 1,
         "populacao": 7120,
         "local": "Catanduva SP",
