@@ -77,9 +77,9 @@
       "id": 2,
       "properties": {
         "name": "Centro",
-        "totalCasos": 6000,
-        "masculino": 0,
-        "feminino": 6000,
+        "totalCasos": 10,
+        "masculino": 4,
+        "feminino": 6,
         "populacao": 6076,
         "local": "Catanduva SP",
         "coords": {
@@ -2940,8 +2940,8 @@
       "id": 27,
       "properties": {
         "name": "Parque Glória II",
-        "totalCasos": 1000,
-        "masculino": 998,
+        "totalCasos": 3,
+        "masculino": 2,
         "feminino": 1,
         "populacao": 7120,
         "local": "Catanduva SP",
