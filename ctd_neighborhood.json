@@ -996,9 +996,9 @@
       "id": 7,
       "properties": {
         "name": "Parque Gloria",
-        "totalCasos": 6000,
-        "masculino": 6000,
-        "feminino": 0,
+        "totalCasos": 3,
+        "masculino": 1,
+        "feminino": 2,
         "populacao": 7120,
         "local": "Catanduva SP",
         "coords": {
