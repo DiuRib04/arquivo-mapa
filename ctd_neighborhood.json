@@ -941,8 +941,8 @@
       "id": 6,
       "properties": {
         "name": "Jardim Vertoni",
-        "totalCasos": 0,
-        "masculino": 0,
+        "totalCasos": 6000,
+        "masculino": 6000,
         "feminino": 0,
         "populacao": 6173,
         "local": "Catanduva SP",
