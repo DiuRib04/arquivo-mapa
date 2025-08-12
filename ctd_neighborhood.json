@@ -6,9 +6,9 @@
       "id": 1,
       "properties": {
         "name": "Vila Rodrigues",
-        "totalCasos": 5,
-        "masculino": 2,
-        "feminino": 3,
+        "totalCasos": 3,
+        "masculino": 3,
+        "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -77,9 +77,9 @@
       "id": 2,
       "properties": {
         "name": "Centro",
-        "totalCasos": 10,
-        "masculino": 4,
-        "feminino": 6,
+        "totalCasos": 6,
+        "masculino": 6,
+        "feminino": 0,
         "populacao": 6076,
         "local": "Catanduva SP",
         "coords": {
@@ -92,264 +92,232 @@
         "coordinates": [
           [
             [
-              -48.964862,
-              -21.130018
+              -48.974385,
+              -21.129551
             ],
             [
-              -48.96737,
-              -21.131432
+              -48.968537,
+              -21.130406
             ],
             [
-              -48.968779,
-              -21.133506
+              -48.968602,
+              -21.130597
             ],
             [
-              -48.968995,
-              -21.13384
+              -48.968409,
+              -21.130642
             ],
             [
-              -48.969469,
-              -21.133826
+              -48.96806,
+              -21.130752
             ],
             [
-              -48.969877,
-              -21.134829
+              -48.967685,
+              -21.130972
             ],
             [
-              -48.971705,
-              -21.139142
+              -48.967443,
+              -21.131232
             ],
             [
-              -48.971338,
-              -21.139294
+              -48.967341,
+              -21.131412
             ],
             [
-              -48.970053,
-              -21.140117
+              -48.967593,
+              -21.131547
             ],
             [
-              -48.968831,
-              -21.141008
+              -48.969251,
+              -21.134039
             ],
             [
-              -48.968914,
-              -21.141057
+              -48.9674,
+              -21.137236
             ],
             [
-              -48.969179,
-              -21.141374
+              -48.967599,
+              -21.137346
             ],
             [
-              -48.97163,
-              -21.143869
+              -48.967676,
+              -21.137351
             ],
             [
-              -48.973458,
-              -21.145107
+              -48.968363,
+              -21.137226
             ],
             [
-              -48.973515,
-              -21.14519
+              -48.96847,
+              -21.137649
             ],
             [
-              -48.974186,
-              -21.144973
+              -48.968959,
+              -21.137549
             ],
             [
-              -48.975696,
-              -21.144506
+              -48.96906,
+              -21.137549
             ],
             [
-              -48.97536087649154,
-              -21.143661859557643
+              -48.970074,
+              -21.137832
             ],
             [
-              -48.977191,
-              -21.143044
+              -48.97027,
+              -21.138275
             ],
             [
-              -48.978121,
-              -21.142736
+              -48.970254,
+              -21.13838
             ],
             [
-              -48.979108,
-              -21.142428
+              -48.970372,
+              -21.138592
             ],
             [
-              -48.980798,
-              -21.141904
+              -48.969962,
+              -21.138752
             ],
             [
-              -48.981133,
-              -21.141788
+              -48.969833,
+              -21.13882
             ],
             [
-              -48.98164,
-              -21.141626
+              -48.969661,
+              -21.13896
             ],
             [
-              -48.98182658605471,
-              -21.141536659870738
+              -48.969315,
+              -21.139495
             ],
             [
-              -48.981692,
-              -21.141373
+              -48.969093,
+              -21.139743
             ],
             [
-              -48.981646,
-              -21.141287
+              -48.968897,
+              -21.139848
             ],
             [
-              -48.981094,
-              -21.139925
+              -48.969476,
+              -21.140571
             ],
             [
-              -48.980441,
-              -21.138231
+              -48.968816,
+              -21.141189
             ],
             [
-              -48.980433,
-              -21.138226
+              -48.969358,
+              -21.141734
             ],
             [
-              -48.980402,
-              -21.13811
+              -48.970546,
+              -21.141369
             ],
             [
-              -48.980406,
-              -21.138102
+              -48.970917,
+              -21.142225
             ],
             [
-              -48.980049,
-              -21.137271
+              -48.971845,
+              -21.14193
             ],
             [
-              -48.980019,
-              -21.137186
+              -48.972553,
+              -21.143608
             ],
             [
-              -48.979851,
-              -21.136707
+              -48.974406,
+              -21.143033
             ],
             [
-              -48.979735,
-              -21.136375
+              -48.975458,
+              -21.145729
             ],
             [
-              -48.979418,
-              -21.135536
+              -48.976136,
+              -21.145464
             ],
             [
-              -48.979063,
-              -21.134676
+              -48.976544,
+              -21.14628
             ],
             [
-              -48.978029,
-              -21.132035
+              -48.97726,
+              -21.14601
             ],
             [
-              -48.9777694378029,
-              -21.131201529164468
+              -48.976225,
+              -21.143363
             ],
             [
-              -48.977586,
-              -21.130881
+              -48.978129,
+              -21.142753
             ],
             [
-              -48.978807,
-              -21.130002
+              -48.97781,
+              -21.141972
             ],
             [
-              -48.978959,
-              -21.129845
+              -48.98061,
+              -21.141059
             ],
             [
-              -48.979025,
-              -21.12976
+              -48.979913,
+              -21.13935
             ],
             [
-              -48.979501,
-              -21.129787
+              -48.981721,
+              -21.13879
             ],
             [
-              -48.979614,
-              -21.129751
+              -48.981372,
+              -21.137932
             ],
             [
-              -48.980083,
-              -21.129436
+              -48.982297,
+              -21.137637
             ],
             [
-              -48.981026,
-              -21.12889
+              -48.981541,
+              -21.135745
             ],
             [
-              -48.981125,
-              -21.128577
+              -48.979695,
+              -21.136363
             ],
             [
-              -48.975265067527644,
-              -21.129379373269078
+              -48.978,
+              -21.132025
             ],
             [
-              -48.974305,
-              -21.129527
+              -48.979116,
+              -21.131657
             ],
             [
-              -48.96951614859011,
-              -21.130242125866136
+              -48.978644,
+              -21.130386
             ],
             [
-              -48.968578,
-              -21.130363
+              -48.976992,
+              -21.131492
             ],
             [
-              -48.968594,
-              -21.130457
+              -48.976563,
+              -21.131652
             ],
             [
-              -48.968128,
-              -21.130501
+              -48.976015,
+              -21.131737
             ],
             [
-              -48.96812,
-              -21.130421
+              -48.975189,
+              -21.131687
             ],
             [
-              -48.96796273252703,
-              -21.130362000351482
-            ],
-            [
-              -48.96776305168646,
-              -21.13036142574513
-            ],
-            [
-              -48.96763052845818,
-              -21.13033725773347
-            ],
-            [
-              -48.967497,
-              -21.130268
-            ],
-            [
-              -48.967463,
-              -21.1302
-            ],
-            [
-              -48.967437,
-              -21.130087
-            ],
-            [
-              -48.967349,
-              -21.129644
-            ],
-            [
-              -48.966483,
-              -21.129775
-            ],
-            [
-              -48.965138,
-              -21.129989
+              -48.974798,
+              -21.131647
             ]
           ]
         ]
@@ -360,9 +328,9 @@
       "id": 3,
       "properties": {
         "name": "Vila Mota",
-        "totalCasos": 3,
-        "masculino": 1,
-        "feminino": 2,
+        "totalCasos": 0,
+        "masculino": 0,
+        "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -491,8 +459,8 @@
       "id": 4,
       "properties": {
         "name": "Vila Paulista",
-        "totalCasos": 1,
-        "masculino": 1,
+        "totalCasos": 0,
+        "masculino": 0,
         "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -626,9 +594,9 @@
       "id": 5,
       "properties": {
         "name": "Jardim Eldorado",
-        "totalCasos": 2,
-        "masculino": 2,
-        "feminino": 0,
+        "totalCasos": 3,
+        "masculino": 1,
+        "feminino": 2,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -941,9 +909,9 @@
       "id": 6,
       "properties": {
         "name": "Jardim Vertoni",
-        "totalCasos": 0,
+        "totalCasos": 1,
         "masculino": 0,
-        "feminino": 0,
+        "feminino": 1,
         "populacao": 6173,
         "local": "Catanduva SP",
         "coords": {
@@ -997,8 +965,8 @@
       "properties": {
         "name": "Parque Gloria",
         "totalCasos": 0,
-        "masculino": 1,
-        "feminino": 2,
+        "masculino": 0,
+        "feminino": 0,
         "populacao": 7120,
         "local": "Catanduva SP",
         "coords": {
@@ -1035,9 +1003,9 @@
       "id": 8,
       "properties": {
         "name": "Parque Res. Flamingo",
-        "totalCasos": 5000,
-        "masculino": 8,
-        "feminino": 3,
+        "totalCasos": 5,
+        "masculino": 1,
+        "feminino": 4,
         "populacao": 5734,
         "local": "Catanduva SP",
         "coords": {
@@ -1258,9 +1226,9 @@
       "id": 9,
       "properties": {
         "name": "Parque Res. Santa Paula",
-        "totalCasos": 5,
-        "masculino": 2,
-        "feminino": 3,
+        "totalCasos": 1,
+        "masculino": 0,
+        "feminino": 1,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -1616,9 +1584,9 @@
       "id": 11,
       "properties": {
         "name": "Lot. Solo Sagrado",
-        "totalCasos": 8,
-        "masculino": 3,
-        "feminino": 5,
+        "totalCasos": 10,
+        "masculino": 2,
+        "feminino": 8,
         "populacao": 8429,
         "local": "Catanduva SP",
         "coords": {
@@ -1715,8 +1683,8 @@
       "id": 12,
       "properties": {
         "name": "Residencial Lunardelli",
-        "totalCasos": 1,
-        "masculino": 0,
+        "totalCasos": 3,
+        "masculino": 2,
         "feminino": 1,
         "populacao": 3203,
         "local": "Catanduva SP",
@@ -1786,9 +1754,9 @@
       "id": 13,
       "properties": {
         "name": "Conj. Hab. Gabriel Hernandes",
-        "totalCasos": 8,
-        "masculino": 4,
-        "feminino": 4,
+        "totalCasos": 3,
+        "masculino": 2,
+        "feminino": 1,
         "populacao": 3223,
         "local": "Catanduva SP",
         "coords": {
@@ -1908,8 +1876,8 @@
       "id": 15,
       "properties": {
         "name": "Higienópolis",
-        "totalCasos": 4,
-        "masculino": 2,
+        "totalCasos": 7,
+        "masculino": 5,
         "feminino": 2,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -2043,9 +2011,9 @@
       "id": 16,
       "properties": {
         "name": "Lot. Bom Pastor",
-        "totalCasos": 27,
-        "masculino": 9,
-        "feminino": 18,
+        "totalCasos": 12,
+        "masculino": 5,
+        "feminino": 7,
         "populacao": 3240,
         "local": "Catanduva SP",
         "coords": {
@@ -2126,8 +2094,8 @@
       "id": 17,
       "properties": {
         "name": "Parque Glória IV",
-        "totalCasos": 0,
-        "masculino": 0,
+        "totalCasos": 3,
+        "masculino": 3,
         "feminino": 0,
         "populacao": 7120,
         "local": "Catanduva SP",
@@ -2197,9 +2165,9 @@
       "id": 18,
       "properties": {
         "name": "Vila Bela",
-        "totalCasos": 2,
-        "masculino": 0,
-        "feminino": 2,
+        "totalCasos": 1,
+        "masculino": 1,
+        "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -2272,8 +2240,8 @@
       "id": 19,
       "properties": {
         "name": "Parque José Cury",
-        "totalCasos": 1,
-        "masculino": 1,
+        "totalCasos": 0,
+        "masculino": 0,
         "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -2502,9 +2470,9 @@
       "id": 21,
       "properties": {
         "name": "Jardim do Bosque",
-        "totalCasos": 1,
+        "totalCasos": 0,
         "masculino": 0,
-        "feminino": 1,
+        "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -2613,8 +2581,8 @@
       "id": 22,
       "properties": {
         "name": "Parque Glória III",
-        "totalCasos": 2,
-        "masculino": 1,
+        "totalCasos": 1,
+        "masculino": 0,
         "feminino": 1,
         "populacao": 7120,
         "local": "Catanduva SP",
@@ -2779,9 +2747,9 @@
       "id": 24,
       "properties": {
         "name": "Jardim Imperial",
-        "totalCasos": 30,
-        "masculino": 17,
-        "feminino": 13,
+        "totalCasos": 10,
+        "masculino": 7,
+        "feminino": 3,
         "populacao": 2686,
         "local": "Catanduva SP",
         "coords": {
@@ -2940,9 +2908,9 @@
       "id": 27,
       "properties": {
         "name": "Parque Glória II",
-        "totalCasos": 3,
-        "masculino": 2,
-        "feminino": 1,
+        "totalCasos": 0,
+        "masculino": 0,
+        "feminino": 0,
         "populacao": 7120,
         "local": "Catanduva SP",
         "coords": {
@@ -3226,8 +3194,8 @@
       "properties": {
         "name": "Residencial Anuar Pachá",
         "totalCasos": 2,
-        "masculino": 0,
-        "feminino": 2,
+        "masculino": 1,
+        "feminino": 1,
         "populacao": 3300,
         "local": "Catanduva SP",
         "coords": {
@@ -3548,9 +3516,9 @@
       "id": 31,
       "properties": {
         "name": "Nova Catanduva",
-        "totalCasos": 13,
-        "masculino": 2,
-        "feminino": 11,
+        "totalCasos": 22,
+        "masculino": 9,
+        "feminino": 13,
         "populacao": 5304,
         "local": "Catanduva SP",
         "coords": {
@@ -3810,8 +3778,8 @@
       "id": 33,
       "properties": {
         "name": "Altos do Higienópolis",
-        "totalCasos": 1,
-        "masculino": 1,
+        "totalCasos": 0,
+        "masculino": 0,
         "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -3873,9 +3841,9 @@
       "id": 34,
       "properties": {
         "name": "Conj. Polo Comercial e Industrial Prof. Giordano Mestrinelli",
-        "totalCasos": 4,
-        "masculino": 2,
-        "feminino": 2,
+        "totalCasos": 0,
+        "masculino": 0,
+        "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -3960,9 +3928,9 @@
       "id": 35,
       "properties": {
         "name": "Conjunto Habitacional Residencial Theodoro Rosa Filho",
-        "totalCasos": 2,
-        "masculino": 1,
-        "feminino": 1,
+        "totalCasos": 4,
+        "masculino": 2,
+        "feminino": 2,
         "populacao": 3082,
         "local": "Catanduva SP",
         "coords": {
@@ -4067,9 +4035,9 @@
       "id": 36,
       "properties": {
         "name": "Residencial Alto da Boa Vista",
-        "totalCasos": 0,
+        "totalCasos": 1,
         "masculino": 0,
-        "feminino": 0,
+        "feminino": 1,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -4443,9 +4411,9 @@
       "id": 40,
       "properties": {
         "name": "Distrito Industrial Antônio Zácaro",
-        "totalCasos": 2,
-        "masculino": 0,
-        "feminino": 2,
+        "totalCasos": 6,
+        "masculino": 2,
+        "feminino": 4,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -4592,8 +4560,8 @@
       "id": 43,
       "properties": {
         "name": "Jardim Santa Helena",
-        "totalCasos": 0,
-        "masculino": 0,
+        "totalCasos": 1,
+        "masculino": 1,
         "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -4671,8 +4639,8 @@
       "id": 44,
       "properties": {
         "name": "Residencial Cidade Jardim",
-        "totalCasos": 8,
-        "masculino": 4,
+        "totalCasos": 6,
+        "masculino": 2,
         "feminino": 4,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -4765,10 +4733,10 @@
       "id": 46,
       "properties": {
         "name": "Morada dos Executivos",
-        "totalCasos": 10,
+        "totalCasos": 0,
         "masculino": 0,
         "feminino": 0,
-        "populacao": 10,
+        "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
           "latitude": -21.10946954691202,
@@ -4887,8 +4855,8 @@
       "id": 48,
       "properties": {
         "name": "Residencial Júlia Caparroz",
-        "totalCasos": 0,
-        "masculino": 0,
+        "totalCasos": 2,
+        "masculino": 2,
         "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -4938,9 +4906,9 @@
       "id": 49,
       "properties": {
         "name": "Jardim Nova Catanduva",
-        "totalCasos": 3,
+        "totalCasos": 1,
         "masculino": 0,
-        "feminino": 3,
+        "feminino": 1,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -5076,9 +5044,9 @@
       "id": 51,
       "properties": {
         "name": "Colina do Sol",
-        "totalCasos": 6,
-        "masculino": 3,
-        "feminino": 3,
+        "totalCasos": 2,
+        "masculino": 0,
+        "feminino": 2,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -5151,8 +5119,8 @@
       "id": 52,
       "properties": {
         "name": "Jardim Caparroz",
-        "totalCasos": 0,
-        "masculino": 0,
+        "totalCasos": 1,
+        "masculino": 1,
         "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -5369,9 +5337,9 @@
       "id": 54,
       "properties": {
         "name": "Jardim Esperança",
-        "totalCasos": 0,
+        "totalCasos": 1,
         "masculino": 0,
-        "feminino": 0,
+        "feminino": 1,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -5689,9 +5657,9 @@
       "id": 58,
       "properties": {
         "name": "Jardim Amêndola",
-        "totalCasos": 5,
-        "masculino": 3,
-        "feminino": 2,
+        "totalCasos": 0,
+        "masculino": 0,
+        "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -6058,8 +6026,8 @@
       "id": 61,
       "properties": {
         "name": "Parque Residencial Agudo Romão II",
-        "totalCasos": 0,
-        "masculino": 0,
+        "totalCasos": 1,
+        "masculino": 1,
         "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -6229,8 +6197,8 @@
       "id": 62,
       "properties": {
         "name": "Parque José Curi",
-        "totalCasos": 1,
-        "masculino": 1,
+        "totalCasos": 0,
+        "masculino": 0,
         "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -6324,8 +6292,8 @@
       "id": 63,
       "properties": {
         "name": "Vila São Luiz",
-        "totalCasos": 0,
-        "masculino": 0,
+        "totalCasos": 1,
+        "masculino": 1,
         "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -6459,9 +6427,9 @@
       "id": 64,
       "properties": {
         "name": "Vila Santo Antônio",
-        "totalCasos": 0,
-        "masculino": 0,
-        "feminino": 0,
+        "totalCasos": 2,
+        "masculino": 1,
+        "feminino": 1,
         "populacao": 3371,
         "local": "Catanduva SP",
         "coords": {
@@ -6662,9 +6630,9 @@
       "id": 65,
       "properties": {
         "name": "Jardim do Lago",
-        "totalCasos": 0,
-        "masculino": 0,
-        "feminino": 0,
+        "totalCasos": 3,
+        "masculino": 2,
+        "feminino": 1,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -6753,9 +6721,9 @@
       "id": 66,
       "properties": {
         "name": "Vila Engracia",
-        "totalCasos": 2,
+        "totalCasos": 0,
         "masculino": 0,
-        "feminino": 2,
+        "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -6812,9 +6780,9 @@
       "id": 67,
       "properties": {
         "name": "Jardim Del Rey",
-        "totalCasos": 2,
-        "masculino": 1,
-        "feminino": 1,
+        "totalCasos": 0,
+        "masculino": 0,
+        "feminino": 0,
         "populacao": 4072,
         "local": "Catanduva SP",
         "coords": {
@@ -7134,8 +7102,8 @@
       "id": 69,
       "properties": {
         "name": "Parque Iracema",
-        "totalCasos": 7,
-        "masculino": 5,
+        "totalCasos": 5,
+        "masculino": 3,
         "feminino": 2,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -7317,9 +7285,9 @@
       "id": 70,
       "properties": {
         "name": "Jardim Bela Vista",
-        "totalCasos": 0,
+        "totalCasos": 1,
         "masculino": 0,
-        "feminino": 0,
+        "feminino": 1,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -7508,9 +7476,9 @@
       "id": 71,
       "properties": {
         "name": "Vila Celso Mauad",
-        "totalCasos": 1,
+        "totalCasos": 0,
         "masculino": 0,
-        "feminino": 1,
+        "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -7862,9 +7830,9 @@
       "id": 73,
       "properties": {
         "name": "Jardim Monte Líbano",
-        "totalCasos": 5,
-        "masculino": 3,
-        "feminino": 2,
+        "totalCasos": 7,
+        "masculino": 4,
+        "feminino": 3,
         "populacao": 4273,
         "local": "Catanduva SP",
         "coords": {
@@ -7961,9 +7929,9 @@
       "id": 74,
       "properties": {
         "name": "Jardim Santa Rosa",
-        "totalCasos": 0,
-        "masculino": 0,
-        "feminino": 0,
+        "totalCasos": 3,
+        "masculino": 2,
+        "feminino": 1,
         "populacao": 2770,
         "local": "Catanduva SP",
         "coords": {
@@ -8040,9 +8008,9 @@
       "id": 75,
       "properties": {
         "name": "Jardim Brasil",
-        "totalCasos": 1,
+        "totalCasos": 0,
         "masculino": 0,
-        "feminino": 1,
+        "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -8139,9 +8107,9 @@
       "id": 76,
       "properties": {
         "name": "Jardim Alpino",
-        "totalCasos": 0,
+        "totalCasos": 1,
         "masculino": 0,
-        "feminino": 0,
+        "feminino": 1,
         "populacao": 5061,
         "local": "Catanduva SP",
         "coords": {
@@ -8377,9 +8345,9 @@
       "id": 78,
       "properties": {
         "name": "Vila Guzzo",
-        "totalCasos": 4,
-        "masculino": 2,
-        "feminino": 2,
+        "totalCasos": 0,
+        "masculino": 0,
+        "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -8460,8 +8428,8 @@
       "id": 79,
       "properties": {
         "name": "Jardim Augusta",
-        "totalCasos": 1,
-        "masculino": 0,
+        "totalCasos": 3,
+        "masculino": 2,
         "feminino": 1,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -8515,9 +8483,9 @@
       "id": 80,
       "properties": {
         "name": "São Francisco",
-        "totalCasos": 7,
-        "masculino": 2,
-        "feminino": 5,
+        "totalCasos": 3,
+        "masculino": 3,
+        "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -8798,9 +8766,9 @@
       "id": 85,
       "properties": {
         "name": "Parque Glória V",
-        "totalCasos": 12,
-        "masculino": 5,
-        "feminino": 7,
+        "totalCasos": 7,
+        "masculino": 2,
+        "feminino": 5,
         "populacao": 7120,
         "local": "Catanduva SP",
         "coords": {
@@ -8882,8 +8850,8 @@
       "properties": {
         "name": "Parque Glória VI",
         "totalCasos": 4,
-        "masculino": 2,
-        "feminino": 2,
+        "masculino": 3,
+        "feminino": 1,
         "populacao": 7120,
         "local": "Catanduva SP",
         "coords": {
@@ -8944,8 +8912,8 @@
       "id": 87,
       "properties": {
         "name": "Residencial Juliatti de Carvalho",
-        "totalCasos": 4,
-        "masculino": 2,
+        "totalCasos": 6,
+        "masculino": 4,
         "feminino": 2,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -9003,8 +8971,8 @@
       "id": 88,
       "properties": {
         "name": "Parque Residencial Agudo Romão",
-        "totalCasos": 1,
-        "masculino": 0,
+        "totalCasos": 2,
+        "masculino": 1,
         "feminino": 1,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -9425,9 +9393,9 @@
       "id": 90,
       "properties": {
         "name": "Conjunto Habitacional Giuseppe Spina",
-        "totalCasos": 5,
-        "masculino": 0,
-        "feminino": 5,
+        "totalCasos": 4,
+        "masculino": 3,
+        "feminino": 1,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -9915,8 +9883,8 @@
       "id": 92,
       "properties": {
         "name": "Residencial Júlio Ramos - Nova Catanduva II",
-        "totalCasos": 1,
-        "masculino": 0,
+        "totalCasos": 2,
+        "masculino": 1,
         "feminino": 1,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -10014,8 +9982,8 @@
       "id": 93,
       "properties": {
         "name": "Nova Catanduva III",
-        "totalCasos": 5,
-        "masculino": 3,
+        "totalCasos": 7,
+        "masculino": 5,
         "feminino": 2,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -10097,9 +10065,9 @@
       "id": 94,
       "properties": {
         "name": "Vila Maria Jorge",
-        "totalCasos": 1,
-        "masculino": 1,
-        "feminino": 0,
+        "totalCasos": 2,
+        "masculino": 0,
+        "feminino": 2,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -10220,9 +10188,9 @@
       "id": 95,
       "properties": {
         "name": "Conjunto Habitacional Prefeito Pedro Nechar",
-        "totalCasos": 6,
-        "masculino": 4,
-        "feminino": 2,
+        "totalCasos": 2,
+        "masculino": 2,
+        "feminino": 0,
         "populacao": 2457,
         "local": "Catanduva SP",
         "coords": {
@@ -10410,9 +10378,9 @@
       "id": 97,
       "properties": {
         "name": "Jardim Tarraf II",
-        "totalCasos": 0,
+        "totalCasos": 2,
         "masculino": 0,
-        "feminino": 0,
+        "feminino": 2,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -10623,9 +10591,9 @@
       "id": 100,
       "properties": {
         "name": "Jardim Residencial Diolfen Martani",
-        "totalCasos": 2,
-        "masculino": 0,
-        "feminino": 2,
+        "totalCasos": 3,
+        "masculino": 2,
+        "feminino": 1,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -11174,8 +11142,8 @@
       "id": 105,
       "properties": {
         "name": "Loteamento Cerradinho",
-        "totalCasos": 1,
-        "masculino": 1,
+        "totalCasos": 0,
+        "masculino": 0,
         "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -11388,8 +11356,8 @@
       "id": 107,
       "properties": {
         "name": "Conjunto Habitacional Ângelo Gavioli",
-        "totalCasos": 0,
-        "masculino": 0,
+        "totalCasos": 3,
+        "masculino": 3,
         "feminino": 0,
         "populacao": 6483,
         "local": "Catanduva SP",
@@ -11436,8 +11404,8 @@
       "properties": {
         "name": "Jardim São Domingos",
         "totalCasos": 2,
-        "masculino": 0,
-        "feminino": 2,
+        "masculino": 1,
+        "feminino": 1,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -11502,8 +11470,8 @@
       "id": 109,
       "properties": {
         "name": "Conjunto Habitacional Pref. Joao Righini",
-        "totalCasos": 0,
-        "masculino": 0,
+        "totalCasos": 1,
+        "masculino": 1,
         "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -11875,9 +11843,9 @@
       "id": 112,
       "properties": {
         "name": "Conjunto Habitacional Dep. Antônio Mastrocola",
-        "totalCasos": 4,
-        "masculino": 1,
-        "feminino": 3,
+        "totalCasos": 0,
+        "masculino": 0,
+        "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -11922,8 +11890,8 @@
       "id": 113,
       "properties": {
         "name": "Residencial Alexandrina Pereira",
-        "totalCasos": 0,
-        "masculino": 0,
+        "totalCasos": 1,
+        "masculino": 1,
         "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -12000,8 +11968,8 @@
       "id": 115,
       "properties": {
         "name": "Residencial dos Ipês",
-        "totalCasos": 0,
-        "masculino": 0,
+        "totalCasos": 2,
+        "masculino": 2,
         "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
@@ -12166,9 +12134,9 @@
       "id": 117,
       "properties": {
         "name": "Residencial Paraíso",
-        "totalCasos": 5,
+        "totalCasos": 3,
         "masculino": 3,
-        "feminino": 2,
+        "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -12409,9 +12377,9 @@
       "id": 118,
       "properties": {
         "name": "Conjunto Habitacional Euclides Figueiredo II",
-        "totalCasos": 4,
-        "masculino": 1,
-        "feminino": 3,
+        "totalCasos": 8,
+        "masculino": 4,
+        "feminino": 4,
         "populacao": 3377,
         "local": "Catanduva SP",
         "coords": {
@@ -12681,8 +12649,8 @@
       "id": 122,
       "properties": {
         "name": "Nosso Teto",
-        "totalCasos": 0,
-        "masculino": 0,
+        "totalCasos": 1,
+        "masculino": 1,
         "feminino": 0,
         "populacao": 6677,
         "local": "Catanduva SP",
@@ -12851,9 +12819,9 @@
       "id": 124,
       "properties": {
         "name": "Residencial Top Life",
-        "totalCasos": 1,
-        "masculino": 1,
-        "feminino": 0,
+        "totalCasos": 2,
+        "masculino": 0,
+        "feminino": 2,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
@@ -13217,9 +13185,9 @@
       "id": 130,
       "properties": {
         "name": "Jardim da Torre",
-        "totalCasos": 3,
-        "masculino": 2,
-        "feminino": 1,
+        "totalCasos": 0,
+        "masculino": 0,
+        "feminino": 0,
         "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
