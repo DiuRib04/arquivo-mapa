@@ -327,11 +327,11 @@
       "type": "Feature",
       "id": 3,
       "properties": {
-        "name": "Vila Mota",
-        "totalCasos": 0,
-        "masculino": 0,
+        "name": "Teste Alerta",
+        "totalCasos": 60,
+        "masculino": 60,
         "feminino": 0,
-        "populacao": 0,
+        "populacao": 60,
         "local": "Catanduva SP",
         "coords": {
           "latitude": -21.1259374,
@@ -459,7 +459,7 @@
       "id": 4,
       "properties": {
         "name": "Teste Final 28",
-        "totalCasos": 0,
+        "totalCasos": 50,
         "masculino": 50,
         "feminino": 0,
         "populacao": 50,
