@@ -459,10 +459,10 @@
       "id": 4,
       "properties": {
         "name": "Teste Final 28",
-        "totalCasos": 50,
-        "masculino": 50,
+        "totalCasos": 80,
+        "masculino": 80,
         "feminino": 0,
-        "populacao": 50,
+        "populacao": 80,
         "local": "Catanduva SP",
         "coords": {
           "latitude": -21.128016276879485,
