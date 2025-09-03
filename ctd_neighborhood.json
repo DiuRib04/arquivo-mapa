@@ -121,10 +121,10 @@
       "id": 3,
       "properties": {
         "name": "Teste Noti",
-        "totalCasos": 40,
-        "masculino": 40,
+        "totalCasos": 45,
+        "masculino": 45,
         "feminino": 0,
-        "populacao": 40,
+        "populacao": 45,
         "local": "Catanduva SP",
         "coords": {
           "latitude": -21.1259374,
