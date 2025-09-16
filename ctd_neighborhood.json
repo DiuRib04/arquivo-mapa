@@ -120,9 +120,9 @@
       "type": "Feature",
       "id": 3,
       "properties": {
-        "name": "Teste Noti",
-        "totalCasos": 77,
-        "masculino": 75,
+        "name": "Teste Notificação",
+        "totalCasos": 80,
+        "masculino": 80,
         "feminino": 0,
         "populacao": 75,
         "local": "Catanduva SP",
@@ -5550,3 +5550,4 @@
     }
   ]
 }
+
