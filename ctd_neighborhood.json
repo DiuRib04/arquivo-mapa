@@ -121,7 +121,7 @@
       "id": 3,
       "properties": {
         "name": "Teste Notificação",
-        "totalCasos": 87,
+        "totalCasos": 90,
         "masculino": 87,
         "feminino": 0,
         "populacao": 87,
@@ -5550,6 +5550,7 @@
     }
   ]
 }
+
 
 
 
