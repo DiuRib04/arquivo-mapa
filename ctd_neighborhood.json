@@ -121,10 +121,10 @@
       "id": 3,
       "properties": {
         "name": "Teste Notificação",
-        "totalCasos": 83,
-        "masculino": 83,
+        "totalCasos": 85,
+        "masculino": 85,
         "feminino": 0,
-        "populacao": 83,
+        "populacao": 85,
         "local": "Catanduva SP",
         "coords": {
           "latitude": -21.1259374,
@@ -5550,6 +5550,7 @@
     }
   ]
 }
+
 
 
 
