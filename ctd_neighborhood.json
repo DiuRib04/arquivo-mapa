@@ -9,7 +9,7 @@
         "totalCasos": 3,
         "masculino": 3,
         "feminino": 0,
-        "populacao": 0,
+        "populacao": 3,
         "local": "Catanduva SP",
         "coords": {
           "latitude": -21.134875063295922,
@@ -5550,6 +5550,7 @@
     }
   ]
 }
+
 
 
 
