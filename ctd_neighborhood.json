@@ -171,7 +171,7 @@
       "id": 4,
       "properties": {
         "name": "Vila Paulista",
-        "totalCasos": 5,
+        "totalCasos": 6,
         "masculino": 5,
         "feminino": 0,
         "populacao": 5,
@@ -5550,6 +5550,7 @@
     }
   ]
 }
+
 
 
 
