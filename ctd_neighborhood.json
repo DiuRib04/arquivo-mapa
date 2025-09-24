@@ -222,8 +222,8 @@
       "id": 5,
       "properties": {
         "name": "Jardim Eldorado",
-        "totalCasos": 4,
-        "masculino": 4,
+        "totalCasos": 5,
+        "masculino": 5,
         "feminino": 0,
         "populacao": 4,
         "local": "Catanduva SP",
@@ -5550,6 +5550,7 @@
     }
   ]
 }
+
 
 
 
