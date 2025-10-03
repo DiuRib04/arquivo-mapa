@@ -328,10 +328,10 @@
       "id": 3,
       "properties": {
         "name": "Vila Mota",
-        "totalCasos": 5,
-        "masculino": 5,
+        "totalCasos": 6,
+        "masculino": 6,
         "feminino": 0,
-        "populacao": 5,
+        "populacao": 6,
         "local": "Catanduva SP",
         "coords": {
           "latitude": -21.1259374,
