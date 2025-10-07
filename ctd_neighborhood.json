@@ -331,7 +331,7 @@
         "totalCasos": 2,
         "masculino": 0,
         "feminino": 2,
-        "populacao": 2,
+        "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
           "latitude": -21.1259374,
@@ -459,10 +459,10 @@
       "id": 4,
       "properties": {
         "name": "Vila Paulista",
-        "totalCasos": 5,
-        "masculino": 5,
+        "totalCasos": 1,
+        "masculino": 1,
         "feminino": 0,
-        "populacao": 5,
+        "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
           "latitude": -21.128016276879485,
