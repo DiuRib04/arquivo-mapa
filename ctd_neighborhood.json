@@ -909,10 +909,10 @@
       "id": 6,
       "properties": {
         "name": "Jardim Vertoni",
-        "totalCasos": 5,
-        "masculino": 5,
+        "totalCasos": 0,
+        "masculino": 0,
         "feminino": 0,
-        "populacao": 5,
+        "populacao": 0,
         "local": "Catanduva SP",
         "coords": {
           "latitude": -21.13211553763048,
@@ -964,10 +964,10 @@
       "id": 7,
       "properties": {
         "name": "Parque Gloria",
-        "totalCasos": 0,
-        "masculino": 0,
+        "totalCasos": 5,
+        "masculino": 5,
         "feminino": 0,
-        "populacao": 7120,
+        "populacao": 5,
         "local": "Catanduva SP",
         "coords": {
           "latitude": -21.126215634137292,
