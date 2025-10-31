@@ -964,10 +964,10 @@
       "id": 7,
       "properties": {
         "name": "Parque Gloria",
-        "totalCasos": 6,
-        "masculino": 6,
+        "totalCasos": 7,
+        "masculino": 7,
         "feminino": 0,
-        "populacao": 6,
+        "populacao": 7,
         "local": "Catanduva SP",
         "coords": {
           "latitude": -21.126215634137292,
