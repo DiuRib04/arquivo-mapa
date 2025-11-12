@@ -5521,10 +5521,10 @@
       "id": 130,
       "properties": {
         "name": "Jardim da Torre",
-        "totalCasos": 0,
+        "totalCasos": 5,
         "masculino": 0,
         "feminino": 0,
-        "populacao": 0,
+        "populacao": 5,
         "local": "Catanduva SP",
         "coords": {
           "latitude": -21.105000270441277,
